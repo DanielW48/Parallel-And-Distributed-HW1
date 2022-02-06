@@ -1,0 +1,10 @@
+First, download the HW1.cpp file.
+Then, to compile the program, run the following command:
+
+g++ -std=c++17 -pthread HW1.cpp
+
+Then, to run the program, run the following command:
+
+./a.out
+
+The required output should appear in a file called primes.txt.
